@@ -4,3 +4,5 @@ This app attempts to clone the UI/UX of Instagram. This app is built using React
 
 **A preview of this app can be found here:§**
 https://snack.expo.dev/@mattman08/instagram-clone
+
+<img src="./assets/readme/ezgif.com-gif-maker.gif" width="350" />
