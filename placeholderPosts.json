@@ -1,0 +1,22 @@
+[
+  {
+    "userProfile": {
+      "name": "Timothy Jones",
+      "imagePath": "../assets/profile-placeholder.jpg"
+    },
+    "post": {
+      "imagePath": "../assets/placeholderPost1.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  },
+  {
+    "userProfile": {
+      "name": "Timothy Jones",
+      "imagePath": "../assets/profile-placeholder.jpg"
+    },
+    "post": {
+      "imagePath": "../assets/placeholderPost2.jpg",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    }
+  }
+]
